@@ -1,0 +1,53 @@
+.icon {
+  background-image: url('../sprite.png');
+}
+
+@media (min--moz-device-pixel-ratio: 1.5), (-o-min-device-pixel-ratio: 3/2), (-webkit-min-device-pixel-ratio: 1.5), (min-device-pixel-ratio: 1.5), (min-resolution: 1.5dppx) {
+  .icon {
+    background-image: url('../sprite@2x.png');
+    background-size: 44px 311px;
+  }
+}
+
+.icon-side_esf {
+  background-position: -5px -5px;
+  width: 34px;
+  height: 34px;
+}
+
+.icon-side_fina {
+  background-position: -5px -49px;
+  width: 34px;
+  height: 34px;
+}
+
+.icon-side_help {
+  background-position: -5px -94px;
+  width: 34px;
+  height: 34px;
+}
+
+.icon-size_add {
+  background-position: -5px -138px;
+  width: 34px;
+  height: 34px;
+}
+
+.icon-size_download {
+  background-position: -5px -183px;
+  width: 34px;
+  height: 34px;
+}
+
+.icon-size_nh {
+  background-position: -5px -227px;
+  width: 34px;
+  height: 34px;
+}
+
+.icon-size_sale {
+  background-position: -5px -272px;
+  width: 34px;
+  height: 34px;
+}
+
