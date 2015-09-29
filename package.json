@@ -2,7 +2,8 @@
   "name": "csssprite",
   "version": "0.1.0",
   "devDependencies": {
+    "gmsmith": "^0.5.0",
     "grunt": "~0.4.5",
-    "css-sprite": "^0.9.9"
+    "grunt-spritesmith": "^5.1.1"
   }
 }
